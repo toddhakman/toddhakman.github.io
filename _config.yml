@@ -13,9 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
+
+title: Todd Hakman
+email: toddhakman@gmail.com
+description: >-
   A place for me to showcase the work I have done while learning
   data analysis with python and R, and web design, beginning with
   working from a Jekyll theme to building from scratch.
@@ -23,10 +24,12 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: toddhakman
 minimal_mistakes_skin: dark
 search: true
+url: "https://toddhakman.github.io"
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
