@@ -64,7 +64,7 @@ plugins:
 
 author:
   name   : "Todd Hakman"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/picture.png"
   bio    : "Lifelong student actively building skills in data analysis and web design."
   links:
     #- label: "Website"
